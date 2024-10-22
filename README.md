@@ -1,1 +1,1 @@
-View my homepage , go to [https://thiraphatnicegithub.io](https://thiraphatnicegithub.io)
+View my homepage , go to [https://thiraphatnice.github.io](https://thiraphatnice.github.io)
